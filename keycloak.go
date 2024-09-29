@@ -15,8 +15,8 @@ import (
 )
 
 const (
-	defaultAdminBase = "auth/admin/realms"
-	defaultBase      = "auth/realms"
+	defaultAdminBase = "admin/realms"
+	defaultBase      = "realms"
 
 	formEncoded   = "application/x-www-form-urlencoded"
 	passwordGrant = "password"
